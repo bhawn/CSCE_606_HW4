@@ -2,7 +2,14 @@
 
 1 deprecation warning total
 
-Finished in 0.34616 seconds (files took 1.69 seconds to load)
+Finished in 0.32123 seconds (files took 1.67 seconds to load)
 17 examples, 0 failures
 
 Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/HW4/rottenpotatoes/coverage. 41 / 42 LOC (97.62%) covered.
+
+================================================================================
+ NOTE: just rspec coverage command not giving my previous results without cucumber. 
+      (now just outputs same as cucumber)
+ - Here are my previous results.
+================================================================================
+ - Coverage report generated for RSpec to /home/ec2-user/environment/HW4/rottenpotatoes/coverage. 36 / 42 LOC (85.71%) covered.
